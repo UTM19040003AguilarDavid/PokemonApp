@@ -59,11 +59,6 @@ setLoading(false);
               <Character
                 key={character.id}
                 name={character.name}
-                origin={character.origin}
-                image={character.image}
-                status={character.status}
-                species={character.species}
-                gender={character.gender}
                 weight={character.weight}
               />
             </div>

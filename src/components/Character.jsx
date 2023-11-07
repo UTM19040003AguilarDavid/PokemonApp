@@ -1,8 +1,5 @@
 export function Character(character) {
-  console.log(character)
   return (
-
-    
     <>
       <div className="card w-96 bg-secondary text-primary-content">
       
